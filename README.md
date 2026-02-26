@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-    <a href="" target="_blank">
+    <a href="https://wenjiawang0312.github.io/projects/embodmocap/CVPR2026_EmbodMocap.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Paper-00AEEF?style=plastic&logo=arxiv&logoColor=white" alt="Paper">
     </a>
     <a href="https://wenjiawang0312.github.io/projects/embodmocap/" target="_blank">
