@@ -20,6 +20,7 @@
     <p>
         <sup>1</sup>The University of Hong Kong    
         <sup>2</sup>Tampere University
+        <br>
         <sup>3</sup>The Chinese University of Hong Kong    
         <sup>4</sup>Max-Planck Institute for Informatics
     </p>
