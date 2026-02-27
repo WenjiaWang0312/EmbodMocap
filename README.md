@@ -38,11 +38,6 @@
     </a>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=B5CDThL2ypo">
-    <img src="https://img.youtube.com/vi/B5CDThL2ypo/0.jpg" alt="Watch the video" style="width:80%;">
-  </a>
-</p>
 
 
 # 🗓️ News:
