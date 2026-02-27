@@ -49,10 +49,10 @@
 If you find this project useful in your research, please consider citing us:
 
 ```
-@inproceedings{wang2025sims,
+@inproceedings{wang2025embodmocap,
 title = {EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents.},
 booktitle = {CVPR},
-author = {Wang, Wenjia and Pan, Liang and Pi, Huaijin and Lou, Yuke and Ren, Xuqian and Wu, Yifan and Liao, Zhouyingcheng and Yang, Lei , Dabral, Rishabh and Theobalt, Christian and Komura, Taku},
+author = {Wang, Wenjia and Pan, Liang and Pi, Huaijin and Lou, Yuke and Ren, Xuqian and Wu, Yifan and Liao, Zhouyingcheng and Yang, Lei, Dabral, Rishabh and Theobalt, Christian and Komura, Taku},
 year = {2026}
 }
 ```
