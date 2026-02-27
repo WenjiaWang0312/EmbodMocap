@@ -38,8 +38,9 @@
     </a>
 </p>
 
-
-![teaser](assets/teaser.png)
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/B5CDThL2ypo" frameborder="0" allowfullscreen></iframe>
+</div>
 
 # 🗓️ News:
 
